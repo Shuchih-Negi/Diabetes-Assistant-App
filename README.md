@@ -27,3 +27,11 @@ This chatbot interacts fluently in both **English and Marathi**, understands use
 | **Mem0 AI** | Persistent Long-term User Memory (User Profile + Past Chats) |
 | **Cloudflared / Pyngrok** | Public URL Tunneling |
 
+---
+
+##🚧 Future Enhancements
+- 📊 Glucose Spike Prediction (based on user input data)
+- 🍽️ Diet & Activity Plan Suggestions
+- 🎙️ Voice Interaction Capability
+- ⌚ Integration with Smart Wearables (for real-time glucose data)
+
