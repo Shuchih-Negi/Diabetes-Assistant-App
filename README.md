@@ -1,4 +1,4 @@
-# 🩺 Diabetes Bilingual Chatbot (Marathi & English) with Mem0 Memory & Gemini AI
+# 🩺 Diabetes Bilingual Chatbot (Marathi & English) with SUTRA-v2 Multilingual LLM, Mem0 Memory & Gemini AI
 
 A conversational, personalized, diabetes care chatbot built using **Streamlit**, **Google Gemini**, **Mem0 Memory**, and **SUTRA multilingual LLM**.
 Supports both **English and Marathi**, remembers past health details, and provides culturally relevant, diabetic-safe guidance to users across sessions.
