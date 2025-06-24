@@ -29,7 +29,7 @@ This chatbot interacts fluently in both **English and Marathi**, understands use
 
 ---
 
-##🚧 Future Enhancements
+## 🚧 Future Enhancements
 - 📊 Glucose Spike Prediction (based on user input data)
 - 🍽️ Diet & Activity Plan Suggestions
 - 🎙️ Voice Interaction Capability
