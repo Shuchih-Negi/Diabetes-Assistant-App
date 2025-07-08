@@ -8,7 +8,7 @@ Supports both **English and Marathi**, remembers past health details, and provid
 ## 🚀 Features
 
 * 🔍 **Multi-user personalized memory** with Mem0 (remembers health data per user ID)
-* 🌐 **Bilingual Support** (English / Marathi) — auto-detects language per query
+* 🌐 **Bilingual/Multilingual Support** auto-detects language per query
 * 🧠 **Context-aware conversations**: Past chat memories influence responses (e.g., medications, symptoms)
 * 🍽️ **Diabetes-Safe Lifestyle Guidance** (snacks, meals, activity, doctor consultations)
 * 🔄 **Streamlit Form-based Chat UI** — clean, single-enter per query (no multiple Enter presses)
@@ -24,7 +24,7 @@ Supports both **English and Marathi**, remembers past health details, and provid
 | **Streamlit**               | Frontend (Interactive Chat UI)                       |
 | **Mem0.ai**                 | Long-term per-user memory storage                    |
 | **Google Gemini 1.5 Flash** | AI content generation & reasoning                    |
-| **SUTRA LLM via Agno**      | Language detection, translation (English ↔️ Marathi) |
+| **SUTRA LLM via Agno**      | Language detection, translation |
 | **Python**                  | Backend Logic                                        |
 
 ---
@@ -66,7 +66,7 @@ sutra_agent = Agent(
    If new → basic health info (age, type of diabetes, medication) is collected and stored to Mem0.
 
 2. **Language Auto-Detection**:
-   Each query’s language is detected (Marathi or English) and translated to English for Gemini.
+   Each query’s language is detected and translated to English for Gemini.
 
 3. **Personalized Context Memory**:
    Mem0 provides prior memories — personal info, symptoms, habits — which Gemini uses to generate relevant, safe, and India-specific responses.
@@ -92,7 +92,6 @@ sutra_agent = Agent(
 * 🩺 **Glucose Spike Prediction** based on user input history
 * 📈 Visualization of user health data
 * 📲 WhatsApp / Mobile App integration
-* 🔍 More regional languages (Hindi, Tamil, Bengali)
 
 ---
 
